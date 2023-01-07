@@ -21,6 +21,9 @@ Téléchargez le dataset et suivez la structure de dossier suivante :
 - tunning (qui contient les hyperparamètres)
 - Ouvrez le fichier ipynb dans votre environnement de développement préféré (par exemple, Jupyter Notebook).
 
+
+Ouvrez le fichier `multiClass_classifier_CNN.ipynb` dans votre environnement de développement préféré (par exemple, Jupyter Notebook). 
+
 Suivez les instructions dans le fichier ipynb pour entraîner et utiliser le modèle ou directement aller a la section "Essayer ici notre meilleur modèle !"
 pour classifier des images avec notre meilleur modèle.
 
