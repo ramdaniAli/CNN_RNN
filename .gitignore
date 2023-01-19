@@ -7,3 +7,6 @@ models_best_fit
 logs
 tuning
 .dccache
+annotations
+train2014
+checkpoints
